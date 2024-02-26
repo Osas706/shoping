@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Shop = () => {
   return (
@@ -8,10 +8,10 @@ const Shop = () => {
       </div>
 
       <div className="products">
-        
+
       </div>
     </div>
   )
 }
 
-export default Shop
+export default Shop;
